@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Blender backups
+*.blend1
+*.blend2
+
+# Rendered output: 114 MB of raw frames and the demo video.
+# Curated, web-sized derivatives live in docs/media/ and are tracked.
+renders/
+
+# OS cruft
+.DS_Store
+Thumbs.db
